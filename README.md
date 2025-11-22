@@ -6,6 +6,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hendprw/hendprw/9c1ff7d281791dce6fdcfb63d7424f7baa114a45/github-contribution-grid-snake-white.svg" />
+</div>
+
+---
+
 ### 👨‍💻 About Me
 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160" />
@@ -40,13 +46,7 @@ Hi, I'm **Hendrik**. I work on secure virtual environments and network managemen
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendprw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="140" />
 </div>
 
----
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hendprw/hendprw/9c1ff7d281791dce6fdcfb63d7424f7baa114a45/github-contribution-grid-snake-white.svg" />
-</div>
 
 ---
 
