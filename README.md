@@ -45,7 +45,7 @@ Hi, I'm **Hendrik**. I work on secure virtual environments and network managemen
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hendprw/hendprw/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/hendprw/hendprw/9c1ff7d281791dce6fdcfb63d7424f7baa114a45/github-contribution-grid-snake-white.svg" />
 </div>
 
 ---
